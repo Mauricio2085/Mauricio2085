@@ -4,10 +4,10 @@ Soy **Ingeniero Electrónico** con experiencia en **automatización industrial**
 
 ### Tecnologías que uso
 
-- **Frontend:** Javascript, React.js, TailwindCSS
+- **Frontend:** JavaScript, TypeScript, React.js, TailwindCSS
 - **Backend:** Node.js, Express.js
 - **Bases de datos:** PostgreSQL
-- **Otros:** Git, Linux (WSL), GIS con ArcGIS Pro
+- **Otros:** Git, Linux (WSL)
 
 ### Proyectos destacados
 
@@ -24,8 +24,6 @@ API REST que gestiona la autenticación de usuarios y el control de inventario e
 - **Testing en React** con Jest y React Testing Library.
 
 - **Estructuras de datos y patrones de diseño** en JavaScript.
-
-- **TypeScript** para mejorar la escalabilidad y seguridad del código.
 
 ### 📫 Conéctate conmigo
 
